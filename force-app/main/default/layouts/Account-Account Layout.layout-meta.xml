@@ -21,7 +21,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Test_1__c</field>
+                <field>Test2__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
